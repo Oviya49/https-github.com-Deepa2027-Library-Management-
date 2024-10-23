@@ -18,3 +18,7 @@ REG.NO:212223040140
 ## COMMUNICATION DIAGRAM:
 ![image](https://github.com/user-attachments/assets/09b5a508-57d6-4ba2-b9a5-a6c2727fd905)
 ![image](https://github.com/user-attachments/assets/600fd4a3-c8eb-4fe4-b19c-925fe278b655)
+## RESULT:
+The UML diagrams for library mangement system are successfully designed using star uml tool.
+
+
